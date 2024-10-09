@@ -1,3 +1,5 @@
+touch README.md
+
 <h1 align="left">CDEC - Club de Développement et d'Échange de Connaissances</h1>
 
 ###
