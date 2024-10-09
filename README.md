@@ -23,13 +23,13 @@
 
 ###
 
-<h2 align="left">Our Activities</h2>
+<h2 align="left">Some Pictures</h2>
 
 ###
-![1](https://github.com/user-attachments/assets/d99fa47d-73d7-4933-ad34-8a24a7d6a129)
-![2](https://github.com/user-attachments/assets/e7c61804-75ff-4d86-a684-c3e58ffe5ef6)
-![3](https://github.com/user-attachments/assets/5279382e-5662-444a-a528-c6f72415781e)
-![4](https://github.com/user-attachments/assets/44d5a3dd-e596-47e7-aadf-b537a80dba84)
+![1](https://github.com/user-attachments/assets/d99fa47d-73d7-4933-ad34-8a24a7d6a129) ![2](https://github.com/user-attachments/assets/e7c61804-75ff-4d86-a684-c3e58ffe5ef6)
+
+![3](https://github.com/user-attachments/assets/5279382e-5662-444a-a528-c6f72415781e) ![4](https://github.com/user-attachments/assets/44d5a3dd-e596-47e7-aadf-b537a80dba84)
+
 
 
 
