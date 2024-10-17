@@ -4,7 +4,7 @@
 ###
 
 <p align="left">Welcome to CDEC, the Club de Développement et d'Échange de Connaissances at Saad Dahleb Blida 01 University! We are a community of passionate students dedicated to learning, developing, and exchanging knowledge in the fields of technology, software development, and innovation.
-visit the web site :<a href="https://anisfed.github.io/CDEC/" target="_blank">CDEC</a>.
+visit the web site :<a href="https://anisfed.github.io/CDEC/" target="_blank">CDEC-Website</a>
 </p>
 
 ###
